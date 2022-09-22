@@ -1,0 +1,1065 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "vegetable"
+    },
+    {
+      "id": 2,
+      "name": "fruit"
+    },
+    {
+      "id": 3,
+      "name": "beverage"
+    },
+    {
+      "id": 4,
+      "name": "snacks"
+    },
+    {
+      "id": 5,
+      "name": "bakery"
+    },
+    {
+      "id": 6,
+      "name": "legume"
+    },
+    {
+      "id": 7,
+      "name": "breakfast"
+    },
+    {
+      "id": 8,
+      "name": "personal-care"
+    },
+    {
+      "id": 9,
+      "name": "grocery"
+    },
+    {
+      "id": 10,
+      "name": "house"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "category": 1,
+      "name": "Apio",
+      "price": 2990,
+      "weight": "500 g",
+      "image": "/img/grocery/deal/5.png",
+      "quantity": 1
+    },
+    {
+      "id": 2,
+      "category": 1,
+      "name": "Pimenton",
+      "price": 7100,
+      "weight": "500 g",
+      "image": "/img/grocery/product/fruits-vegetables/1.png",
+      "quantity": 1
+    },
+    {
+      "id": 3,
+      "category": 1,
+      "name": "Berenjena",
+      "price": 3550,
+      "weight": "500 g",
+      "image": "/img/grocery/product/fruits-vegetables/2.png",
+      "quantity": 1
+    },
+    {
+      "id": 4,
+      "category": 1,
+      "name": "Papa",
+      "price": 2700,
+      "weight": "500 g",
+      "image": "/img/grocery/product/fruits-vegetables/3.png",
+      "quantity": 1
+    },
+    {
+      "id": 5,
+      "category": 1,
+      "name": "Cebolla",
+      "price": 2850,
+      "weight": "500 g",
+      "image": "/img/grocery/product/fruits-vegetables/4.png",
+      "quantity": 1
+    },
+    {
+      "id": 6,
+      "category": 1,
+      "name": "Chile",
+      "price": 3850,
+      "weight": "500 g",
+      "image": "/img/grocery/product/fruits-vegetables/5.png",
+      "quantity": 1
+    },
+    {
+      "id": 7,
+      "category": 1,
+      "name": "Brocoli",
+      "price": 5445,
+      "weight": "500 g",
+      "image": "/img/grocery/product/fruits-vegetables/6.png",
+      "quantity": 1
+    },
+    {
+      "id": 8,
+      "category": 1,
+      "name": "Lechuga",
+      "price": 3390,
+      "weight": "200 g",
+      "image": "/img/veg-2/product/7.png",
+      "quantity": 1
+    },
+    {
+      "id": 9,
+      "category": 1,
+      "name": "Alberja",
+      "price": 5090,
+      "weight": "500 g",
+      "image": "/img/veg-3/cate1/10.png",
+      "quantity": 1
+    },
+    {
+      "id": 10,
+      "category": 1,
+      "name": "Calabacin",
+      "price": 2250,
+      "weight": "500 g",
+      "image": "/img/veg-3/cate1/11.png",
+      "quantity": 1
+    },
+    {
+      "id": 11,
+      "category": 1,
+      "name": "Remolacha",
+      "price": 3995,
+      "weight": "500 g",
+      "image": "/img/veg-3/cate1/12.png",
+      "quantity": 1
+    },
+    {
+      "id": 12,
+      "category": 1,
+      "name": "Tomate",
+      "price": 3150,
+      "weight": "500 g",
+      "image": "/img/veg-3/pro1/1.png",
+      "quantity": 1
+    },
+    {
+      "id": 13,
+      "category": 1,
+      "name": "Mazorca",
+      "price": 3790,
+      "weight": "500 g",
+      "image": "/img/veg-3/cate1/15.png",
+      "quantity": 1
+    },
+    {
+      "id": 14,
+      "category": 1,
+      "name": "Repollo",
+      "price": 5850,
+      "weight": "1500 g",
+      "image": "/img/veg-3/cate1/17.png",
+      "quantity": 1
+    },
+    {
+      "id": 15,
+      "category": 1,
+      "name": "Genjibre",
+      "price": 11000,
+      "weight": "100 g",
+      "image": "/img/veg-3/cate1/18.png",
+      "quantity": 1
+    },
+    {
+      "id": 16,
+      "category": 1,
+      "name": "Zanahoria",
+      "price": 7250,
+      "weight": "250 g",
+      "image": "/img/veg-3/pro1/3.png",
+      "quantity": 1
+    },
+    {
+      "id": 17,
+      "category": 1,
+      "name": "Ajo",
+      "price": 7750,
+      "weight": "450 g",
+      "image": "/img/veg-3/pro1/7.png",
+      "quantity": 1
+    },
+    {
+      "id": 18,
+      "category": 2,
+      "name": "Coco",
+      "price": 6000,
+      "weight": "800 g",
+      "image": "/img/veg-2/product/1.png",
+      "quantity": 1
+    },
+    {
+      "id": 19,
+      "category": 2,
+      "name": "Banano",
+      "price": 1350,
+      "weight": "500 g",
+      "image": "/img/veg-2/product/3.png",
+      "quantity": 1
+    },
+    {
+      "id": 20,
+      "category": 2,
+      "name": "Kiwi",
+      "price": 8750,
+      "weight": "500 g",
+      "image": "/img/veg-2/product/4.png",
+      "quantity": 1
+    },
+    {
+      "id": 21,
+      "category": 2,
+      "name": "Limon",
+      "price": 3940,
+      "weight": "500 g",
+      "image": "/img/veg-2/product/5.png",
+      "quantity": 1
+    },
+    {
+      "id": 22,
+      "category": 2,
+      "name": "Naranja",
+      "price": 6640,
+      "weight": "500 g",
+      "image": "/img/veg-2/product/6.png",
+      "quantity": 1
+    },
+    {
+      "id": 23,
+      "category": 2,
+      "name": "Papaya",
+      "price": 7960,
+      "weight": "2 Kg",
+      "image": "/img/veg-2/product/8.png",
+      "quantity": 1
+    },
+    {
+      "id": 24,
+      "category": 2,
+      "name": "Fresa",
+      "price": 4990,
+      "weight": "250 g",
+      "image": "/img/veg-2/product/10.png",
+      "quantity": 1
+    },
+    {
+      "id": 25,
+      "category": 2,
+      "name": "Manzana",
+      "price": 5690,
+      "weight": "500 g",
+      "image": "/img/veg-3/cate1/8.png",
+      "quantity": 1
+    },
+    {
+      "id": 26,
+      "category": 2,
+      "name": "Pera",
+      "price": 7050,
+      "weight": "500 g",
+      "image": "/img/veg-3/cate1/7.png",
+      "quantity": 1
+    },
+    {
+      "id": 27,
+      "category": 2,
+      "name": "Aguacate",
+      "price": 4750,
+      "weight": "500 g",
+      "image": "/img/veg-3/cate1/9.png",
+      "quantity": 1
+    },
+    {
+      "id": 28,
+      "category": 2,
+      "name": "Maracuya",
+      "price": 13590,
+      "weight": "2000 g",
+      "image": "/img/veg-3/cate1/14.png",
+      "quantity": 1
+    },
+    {
+      "id": 29,
+      "category": 2,
+      "name": "Mora",
+      "price": 6990,
+      "weight": "500 g",
+      "image": "/img/veg-3/cate1/16.png",
+      "quantity": 1
+    },
+    {
+      "id": 30,
+      "category": 5,
+      "name": "Strawberry cake",
+      "price": 13590,
+      "weight": "2000 g",
+      "image": "/img/cake/pro/6.jpg",
+      "quantity": 1
+    },
+    {
+      "id": 31,
+      "category": 5,
+      "name": "Chocolate cake",
+      "price": 13590,
+      "weight": "2000 g",
+      "image": "/img/cake/pro/1.jpg",
+      "quantity": 1
+    },
+    {
+      "id": 32,
+      "category": 5,
+      "name": "Vanilla cake",
+      "price": 13590,
+      "weight": "2000 g",
+      "image": "/img/cake/pro/2.jpg",
+      "quantity": 1
+    },
+    {
+      "id": 33,
+      "category": 5,
+      "name": "Limon cake",
+      "price": 13590,
+      "weight": "2000 g",
+      "image": "/img/cake/pro/3.jpg",
+      "quantity": 1
+    },
+    {
+      "id": 34,
+      "category": 5,
+      "name": "Banana cake",
+      "price": 13590,
+      "weight": "2000 g",
+      "image": "/img/cake/pro/4.jpg",
+      "quantity": 1
+    },
+    {
+      "id": 35,
+      "category": 5,
+      "name": "Banana cake",
+      "price": 13590,
+      "weight": "2000 g",
+      "image": "/img/cake/pro/4.jpg",
+      "quantity": 1
+    },
+    {
+      "id": 36,
+      "category": 5,
+      "name": "Blueberry cake",
+      "price": 13590,
+      "weight": "2000 g",
+      "image": "/img/cake/pro/5.jpg",
+      "quantity": 1
+    },
+    {
+      "id": 37,
+      "category": 5,
+      "name": "Cake",
+      "price": 13590,
+      "weight": "2000 g",
+      "image": "/img/cake/pro/6.jpg",
+      "quantity": 1
+    },
+    {
+      "id": 38,
+      "category": 5,
+      "name": "Cake",
+      "price": 13590,
+      "weight": "2000 g",
+      "image": "/img/cake/pro/6.jpg",
+      "quantity": 1
+    },
+    {
+      "id": 39,
+      "category": 5,
+      "name": "Pan",
+      "price": 13590,
+      "weight": "2000 g",
+      "image": "/img/cake/product/1.png",
+      "quantity": 1
+    },
+    {
+      "id": 40,
+      "category": 5,
+      "name": "Harina",
+      "price": 13590,
+      "weight": "2000 g",
+      "image": "/img/cake/product/2.png",
+      "quantity": 1
+    },
+    {
+      "id": 41,
+      "category": 5,
+      "name": "Galletas",
+      "price": 13590,
+      "weight": "2000 g",
+      "image": "/img/cake/product/3.png",
+      "quantity": 1
+    },
+    {
+      "id": 42,
+      "category": 5,
+      "name": "Hojuelas",
+      "price": 13590,
+      "weight": "2000 g",
+      "image": "/img/cake/product/4.png",
+      "quantity": 1
+    },
+    {
+      "id": 43,
+      "category": 5,
+      "name": "Croissant",
+      "price": 13590,
+      "weight": "2000 g",
+      "image": "/img/cake/product/5.png",
+      "quantity": 1
+    },
+    {
+      "id": 44,
+      "category": 5,
+      "name": "Galletas",
+      "price": 13590,
+      "weight": "2000 g",
+      "image": "/img/cake/product/6.png",
+      "quantity": 1
+    },
+    {
+      "id": 45,
+      "category": 5,
+      "name": "Sandwich",
+      "price": 13590,
+      "weight": "2000 g",
+      "image": "/img/cake/product/7.png",
+      "quantity": 1
+    },
+    {
+      "id": 46,
+      "category": 5,
+      "name": "chocolate",
+      "price": 13590,
+      "weight": "2000 g",
+      "image": "/img/cake/product/8.png",
+      "quantity": 1
+    },
+    {
+      "id": 47,
+      "category": 5,
+      "name": "cupcake",
+      "price": 13590,
+      "weight": "2000 g",
+      "image": "/img/cake/product/10.png",
+      "quantity": 1
+    },
+    {
+      "id": 48,
+      "category": 4,
+      "name": "papitas",
+      "price": 13590,
+      "weight": "2000 g",
+      "image": "/img/grocery/deal/1.png",
+      "quantity": 1
+    },
+    {
+      "id": 49,
+      "category": 8,
+      "name": "crema humectante",
+      "price": 13590,
+      "weight": "2000 g",
+      "image": "/img/grocery/deal/2.png",
+      "quantity": 1
+    },
+    {
+      "id": 50,
+      "category": 9,
+      "name": "cafe",
+      "price": 13590,
+      "weight": "2000 g",
+      "image": "/img/grocery/deal/3.png",
+      "quantity": 1
+    },
+    {
+      "id": 51,
+      "category": 9,
+      "name": "harina de maiz",
+      "price": 13590,
+      "weight": "2000 g",
+      "image": "/img/grocery/deal/4.png",
+      "quantity": 1
+    },
+    {
+      "id": 52,
+      "category": 5,
+      "name": "pan de molde",
+      "price": 13590,
+      "weight": "2000 g",
+      "image": "/img/grocery/deal/6.png",
+      "quantity": 1
+    },
+    {
+      "id": 53,
+      "category": 4,
+      "name": "pop corn",
+      "price": 13590,
+      "weight": "2000 g",
+      "image": "/img/grocery/deal/7.png",
+      "quantity": 1
+    },
+    {
+      "id": 54,
+      "category": 9,
+      "name": "uevos",
+      "price": 13590,
+      "weight": "2000 g",
+      "image": "/img/grocery/deal/8.png",
+      "quantity": 1
+    },
+    {
+      "id": 55,
+      "category": 9,
+      "name": "salsa de tomate",
+      "price": 13590,
+      "weight": "2000 g",
+      "image": "/img/grocery/deal/9.png",
+      "quantity": 1
+    },
+    {
+      "id": 56,
+      "category": 9,
+      "name": "caffe",
+      "price": 13590,
+      "weight": "2000 g",
+      "image": "/img/grocery/deal/big.png",
+      "quantity": 1
+    },
+    {
+      "id": 57,
+      "category": 7,
+      "name": "cereal",
+      "price": 13590,
+      "weight": "2000 g",
+      "image": "/img/grocery/product/breakfast/1.png",
+      "quantity": 1
+    },
+    {
+      "id": 58,
+      "category": 7,
+      "name": "leche",
+      "price": 13590,
+      "weight": "2000 g",
+      "image": "/img/grocery/product/breakfast/2.png",
+      "quantity": 1
+    },
+    {
+      "id": 59,
+      "category": 7,
+      "name": "chocos",
+      "price": 13590,
+      "weight": "2000 g",
+      "image": "/img/grocery/product/breakfast/3.png",
+      "quantity": 1
+    },
+    {
+      "id": 60,
+      "category": 7,
+      "name": "panner",
+      "price": 13590,
+      "weight": "2000 g",
+      "image": "/img/grocery/product/breakfast/4.png",
+      "quantity": 1
+    },
+    {
+      "id": 61,
+      "category": 7,
+      "name": "bourn vita",
+      "price": 13590,
+      "weight": "2000 g",
+      "image": "/img/grocery/product/breakfast/5.png",
+      "quantity": 1
+    },
+    {
+      "id": 62,
+      "category": 7,
+      "name": "te",
+      "price": 13590,
+      "weight": "2000 g",
+      "image": "/img/grocery/product/breakfast/6.png",
+      "quantity": 1
+    },
+    {
+      "id": 63,
+      "category": 7,
+      "name": "avena",
+      "price": 13590,
+      "weight": "2000 g",
+      "image": "/img/grocery/product/breakfast/7.png",
+      "quantity": 1
+    },
+    {
+      "id": 64,
+      "category": 7,
+      "name": "milk",
+      "price": 13590,
+      "weight": "2000 g",
+      "image": "/img/grocery/product/breakfast/8.png",
+      "quantity": 1
+    },
+    {
+      "id": 65,
+      "category": 8,
+      "name": "shampoo",
+      "price": 13590,
+      "weight": "2000 g",
+      "image": "/img/grocery/product/chemist/1.png",
+      "quantity": 1
+    },
+    {
+      "id": 66,
+      "category": 8,
+      "name": "algodon",
+      "price": 13590,
+      "weight": "2000 g",
+      "image": "/img/grocery/product/chemist/2.png",
+      "quantity": 1
+    },
+    {
+      "id": 67,
+      "category": 8,
+      "name": "vapoRub",
+      "price": 13590,
+      "weight": "2000 g",
+      "image": "/img/grocery/product/chemist/3.png",
+      "quantity": 1
+    },
+    {
+      "id": 68,
+      "category": 8,
+      "name": "dettol",
+      "price": 13590,
+      "weight": "2000 g",
+      "image": "/img/grocery/product/chemist/4.png",
+      "quantity": 1
+    },
+    {
+      "id": 69,
+      "category": 8,
+      "name": "copitos",
+      "price": 13590,
+      "weight": "2000 g",
+      "image": "/img/grocery/product/chemist/5.png",
+      "quantity": 1
+    },
+    {
+      "id": 70,
+      "category": 10,
+      "name": "eno",
+      "price": 13590,
+      "weight": "2000 g",
+      "image": "/img/grocery/product/chemist/6.png",
+      "quantity": 1
+    },
+    {
+      "id": 71,
+      "category": 10,
+      "name": "saniton",
+      "price": 13590,
+      "weight": "2000 g",
+      "image": "/img/grocery/product/chemist/7.png",
+      "quantity": 1
+    },
+    {
+      "id": 72,
+      "category": 10,
+      "name": "iodex",
+      "price": 13590,
+      "weight": "2000 g",
+      "image": "/img/grocery/product/chemist/9.png",
+      "quantity": 1
+    },
+    {
+      "id": 73,
+      "category": 3,
+      "name": "monster",
+      "price": 13590,
+      "weight": "500 ml",
+      "image": "/img/grocery/product/drink/1.png",
+      "quantity": 1
+    },
+    {
+      "id": 74,
+      "category": 3,
+      "name": "red bull",
+      "price": 13590,
+      "weight": "500 ml",
+      "image": "/img/grocery/product/drink/2.png",
+      "quantity": 1
+    },
+    {
+      "id": 75,
+      "category": 3,
+      "name": "ginger",
+      "price": 13590,
+      "weight": "500 ml",
+      "image": "/img/grocery/product/drink/3.png",
+      "quantity": 1
+    },
+    {
+      "id": 76,
+      "category": 3,
+      "name": "spike",
+      "price": 13590,
+      "weight": "500 ml",
+      "image": "/img/grocery/product/drink/4.png",
+      "quantity": 1
+    },
+    {
+      "id": 77,
+      "category": 3,
+      "name": "mati",
+      "price": 13590,
+      "weight": "500 ml",
+      "image": "/img/grocery/product/drink/5.png",
+      "quantity": 1
+    },
+    {
+      "id": 78,
+      "category": 3,
+      "name": "fanta",
+      "price": 13590,
+      "weight": "500 ml",
+      "image": "/img/grocery/product/drink/6.png",
+      "quantity": 1
+    },
+    {
+      "id": 79,
+      "category": 3,
+      "name": "cocacola",
+      "price": 13590,
+      "weight": "500 ml",
+      "image": "/img/grocery/product/drink/7.png",
+      "quantity": 1
+    },
+    {
+      "id": 80,
+      "category": 3,
+      "name": "sprite",
+      "price": 13590,
+      "weight": "500 ml",
+      "image": "/img/grocery/product/drink/1.png",
+      "quantity": 1
+    },
+    {
+      "id": 81,
+      "category": 6,
+      "name": "fortune",
+      "price": 13590,
+      "weight": "200 g",
+      "image": "/img/grocery/product/grocery/1.png",
+      "quantity": 1
+    },
+    {
+      "id": 82,
+      "category": 9,
+      "name": "arroz",
+      "price": 13590,
+      "weight": "200 g",
+      "image": "/img/grocery/product/grocery/2.png",
+      "quantity": 1
+    },
+    {
+      "id": 83,
+      "category": 9,
+      "name": "aceite",
+      "price": 13590,
+      "weight": "200 ml",
+      "image": "/img/grocery/product/grocery/3.png",
+      "quantity": 1
+    },
+    {
+      "id": 84,
+      "category": 6,
+      "name": "cow chee",
+      "price": 13590,
+      "weight": "200 g",
+      "image": "/img/grocery/product/grocery/4.png",
+      "quantity": 1
+    },
+    {
+      "id": 85,
+      "category": 10,
+      "name": "azucar",
+      "price": 3590,
+      "weight": "200 g",
+      "image": "/img/grocery/product/grocery/5.png",
+      "quantity": 1
+    },
+    {
+      "id": 86,
+      "category": 6,
+      "name": "niraa",
+      "price": 3590,
+      "weight": "200 g",
+      "image": "/img/grocery/product/grocery/6.png",
+      "quantity": 1
+    },
+    {
+      "id": 87,
+      "category": 6,
+      "name": "ganesh",
+      "price": 3590,
+      "weight": "200 g",
+      "image": "/img/grocery/product/grocery/7.png",
+      "quantity": 1
+    },
+    {
+      "id": 88,
+      "category": 6,
+      "name": "buttarfly",
+      "price": 3590,
+      "weight": "200 g",
+      "image": "/img/grocery/product/grocery/8.png",
+      "quantity": 1
+    },
+    {
+      "id": 89,
+      "category": 10,
+      "name": "olla arrocera",
+      "price": 189999.9,
+      "weight": "2000 g",
+      "image": "/img/grocery/product/kichen/1.png",
+      "quantity": 1
+    },
+    {
+      "id": 90,
+      "category": 10,
+      "name": "cup",
+      "price": 5439.69,
+      "weight": "200 g",
+      "image": "/img/grocery/product/kichen/2.png",
+      "quantity": 1
+    },
+    {
+      "id": 91,
+      "category": 10,
+      "name": "licuadora",
+      "price": 88888.8,
+      "weight": "3 Kg",
+      "image": "/img/grocery/product/kichen/3.png",
+      "quantity": 1
+    },
+    {
+      "id": 92,
+      "category": 10,
+      "name": "tabla",
+      "price": 6999.9,
+      "weight": "200 g",
+      "image": "/img/grocery/product/kichen/4.png",
+      "quantity": 1
+    },
+    {
+      "id": 93,
+      "category": 10,
+      "name": "colador",
+      "price": 29999.9,
+      "weight": "200 g",
+      "image": "/img/grocery/product/kichen/5.png",
+      "quantity": 1
+    },
+    {
+      "id": 94,
+      "category": 10,
+      "name": "cubiertos",
+      "price": 50000,
+      "weight": "500 g",
+      "image": "/img/grocery/product/kichen/6.png",
+      "quantity": 1
+    },
+    {
+      "id": 95,
+      "category": 10,
+      "name": "jarra",
+      "price": 50000,
+      "weight": "1500 g",
+      "image": "/img/grocery/product/kichen/7.png",
+      "quantity": 1
+    },
+    {
+      "id": 96,
+      "category": 10,
+      "name": "microondas",
+      "price": 500000,
+      "weight": "20 Kg",
+      "image": "/img/grocery/product/kichen/8.png",
+      "quantity": 1
+    },
+    {
+      "id": 97,
+      "category": 8,
+      "name": "dove",
+      "price": 5700.9,
+      "weight": "250 ml",
+      "image": "/img/grocery/product/personal-care/1.png",
+      "quantity": 1
+    },
+    {
+      "id": 98,
+      "category": 8,
+      "name": "santoor",
+      "price": 25666,
+      "weight": "250 g",
+      "image": "/img/grocery/product/personal-care/2.png",
+      "quantity": 1
+    },
+    {
+      "id": 99,
+      "category": 8,
+      "name": "crema de manos",
+      "price": 30000,
+      "weight": "250 ml",
+      "image": "/img/grocery/product/personal-care/3.png",
+      "quantity": 1
+    },
+    {
+      "id": 100,
+      "category": 8,
+      "name": "cepillo",
+      "price": 98559.9,
+      "weight": "200 g",
+      "image": "/img/grocery/product/personal-care/4.png",
+      "quantity": 1
+    },
+    {
+      "id": 101,
+      "category": 8,
+      "name": "whisper",
+      "price": 9890.9,
+      "weight": "200 g",
+      "image": "/img/grocery/product/personal-care/5.png",
+      "quantity": 1
+    },
+    {
+      "id": 102,
+      "category": 8,
+      "name": "tintura",
+      "price": 19859.9,
+      "weight": "200 ml",
+      "image": "/img/grocery/product/personal-care/6.png",
+      "quantity": 1
+    },
+    {
+      "id": 103,
+      "category": 8,
+      "name": "locion",
+      "price": 50900,
+      "weight": "200 ml",
+      "image": "/img/grocery/product/personal-care/8.png",
+      "quantity": 1
+    },
+    {
+      "id": 104,
+      "category": 4,
+      "name": "cookies",
+      "price": 5000,
+      "weight": "200 g",
+      "image": "/img/veg-2/product/12.png",
+      "quantity": 1
+    },
+    {
+      "id": 105,
+      "category": 5,
+      "name": "brioche",
+      "price": 500,
+      "weight": "50 g",
+      "image": "/img/veg-2/product/13.png",
+      "quantity": 1
+    },
+    {
+      "id": 106,
+      "category": 3,
+      "name": "jugo de piña",
+      "price": 5000,
+      "weight": "250 ml",
+      "image": "/img/veg-2/product/14.png",
+      "quantity": 1
+    },
+    {
+      "id": 107,
+      "category": 9,
+      "name": "macaroni",
+      "price": 12900,
+      "weight": "250 g",
+      "image": "/img/veg-2/product/15.png",
+      "quantity": 1
+    },
+    {
+      "id": 108,
+      "category": 5,
+      "name": "panes",
+      "price": 1000,
+      "weight": "250 g",
+      "image": "/img/veg-2/product/16.png",
+      "quantity": 1
+    },
+    {
+      "id": 109,
+      "category": 9,
+      "name": "yogurt",
+      "price": 6000,
+      "weight": "250 ml",
+      "image": "/img/veg-2/product/19.png",
+      "quantity": 1
+    },
+    {
+      "id": 110,
+      "category": 6,
+      "name": "almendra",
+      "price": 6000,
+      "weight": "250 g",
+      "image": "/img/veg-2/top-selling/13.jpg",
+      "quantity": 1
+    },
+    {
+      "id": 111,
+      "category": 3,
+      "name": "cold brew coffee",
+      "price": 6000,
+      "weight": "250 ml",
+      "image": "/img/vegetable/product/2.png",
+      "quantity": 1
+    },
+    {
+      "id": 112,
+      "category": 4,
+      "name": "potato chips",
+      "price": 6000,
+      "weight": "250 g",
+      "image": "/img/vegetable/product/5.png",
+      "quantity": 1
+    },
+    {
+      "id": 113,
+      "category": 9,
+      "name": "carne",
+      "price": 16000,
+      "weight": "2.5 lb",
+      "image": "/img/vegetable/product/9.png",
+      "quantity": 1
+    }
+  ],
+  "buy": [],
+  "shoppingCart": []
+}

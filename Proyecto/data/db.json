@@ -1,0 +1,280 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "vegetable"
+    },
+    {
+      "id": 2,
+      "name": "fruit"
+    },
+    {
+      "id": 3,
+      "name": "beverage"
+    },
+    {
+      "id": 4,
+      "name": "snacks"
+    },
+    {
+      "id": 5,
+      "name": "bakery"
+    },
+    {
+      "id": 6,
+      "name": "grains"
+    },
+    {
+      "id": 7,
+      "name": "breakfast"
+    },
+    {
+      "id": 8,
+      "name": "personal-care"
+    },
+    {
+      "id": 9,
+      "name": "grocery"
+    },
+    {
+      "id": 10,
+      "name": "house"
+    }
+  ],
+  "vegetable": [
+    {
+      "id": 1,
+      "category": 1,
+      "name": "apio",
+      "price": 2990,
+      "quantity": "500 g",
+      "image": "../img/grocery/deal/5.png"
+    },
+    {
+      "id": 2,
+      "category": 1,
+      "name": "pimenton",
+      "price": 7100,
+      "quantity": "500 g",
+      "image": "../img/grocery/product/fruits-vegetables/1.png"
+    },
+    {
+      "id": 3,
+      "category": 1,
+      "name": "berenjena",
+      "price": 3550,
+      "quantity": "500 g",
+      "image": "../img/grocery/product/fruits-vegetables/2.png"
+    },
+    {
+      "id": 4,
+      "category": 1,
+      "name": "papa",
+      "price": 2700,
+      "quantity": "500 g",
+      "image": "../img/grocery/product/fruits-vegetables/3.png"
+    },
+    {
+      "id": 5,
+      "category": 1,
+      "name": "cebolla",
+      "price": 2850,
+      "quantity": "500 g",
+      "image": "../img/grocery/product/fruits-vegetables/4.png"
+    },
+    {
+      "id": 6,
+      "category": 1,
+      "name": "chile",
+      "price": 3850,
+      "quantity": "500 g",
+      "image": "../img/grocery/product/fruits-vegetables/5.png"
+    },
+    {
+      "id": 7,
+      "category": 1,
+      "name": "brocoli",
+      "price": 5445,
+      "quantity": "500 g",
+      "image": "../img/grocery/product/fruits-vegetables/6.png"
+    },
+    {
+      "id": 8,
+      "category": 1,
+      "name": "lechuga",
+      "price": 3390,
+      "quantity": "200 g",
+      "image": "../img/veg-2/product/7.png"
+    },
+    {
+      "id": 9,
+      "category": 1,
+      "name": "alberja",
+      "price": 5090,
+      "quantity": "500 g",
+      "image": "../img/veg-3/cate1/10.png"
+    },
+    {
+      "id": 10,
+      "category": 1,
+      "name": "calabacin",
+      "price": 2250,
+      "quantity": "500 g",
+      "image": "../img/veg-3/cate1/11.png"
+    },
+    {
+      "id": 11,
+      "category": 1,
+      "name": "remolacha",
+      "price": 3995,
+      "quantity": "500 g",
+      "image": "../img/veg-3/cate1/12.png"
+    },
+    {
+      "id": 12,
+      "category": 1,
+      "name": "tomate",
+      "price": 3150,
+      "quantity": "500 g",
+      "image": "../img/veg-3/pro1/1.png"
+    },
+    {
+      "id": 13,
+      "category": 1,
+      "name": "mazorca",
+      "price": 3790,
+      "quantity": "500 g",
+      "image": "../img/veg-3/cate1/15.png"
+    },
+    {
+      "id": 14,
+      "category": 1,
+      "name": "repollo",
+      "price": 5850,
+      "quantity": "1500 g",
+      "image": "../img/veg-3/cate1/17.png"
+    },
+    {
+      "id": 15,
+      "category": 1,
+      "name": "genjibre",
+      "price": 11000,
+      "quantity": "100 g",
+      "image": "../img/veg-3/cate1/18.png"
+    },
+    {
+      "id": 16,
+      "category": 1,
+      "name": "zanahoria",
+      "price": 7250,
+      "quantity": "250 g",
+      "image": "../img/veg-3/pro1/3.png"
+    },
+    {
+      "id": 17,
+      "category": 1,
+      "name": "ajo",
+      "price": 7750,
+      "quantity": "450 g",
+      "image": "../img/veg-3/pro1/7.png"
+    }
+  ],
+  "fruit": [
+    {
+      "id": 18,
+      "category": 2,
+      "name": "coco",
+      "price": 6000,
+      "quantity": "800 g",
+      "image": "../img/veg-2/product/1.png"
+    },
+    {
+      "id": 19,
+      "category": 2,
+      "name": "banano",
+      "price": 1350,
+      "quantity": "500 g",
+      "image": "../img/veg-2/product/3.png"
+    },
+    {
+      "id": 20,
+      "category": 2,
+      "name": "kiwi",
+      "price": 8750,
+      "quantity": "500 g",
+      "image": "../img/veg-2/product/4.png"
+    },
+    {
+      "id": 21,
+      "category": 2,
+      "name": "limon",
+      "price": 3940,
+      "quantity": "500 g",
+      "image": "../img/veg-2/product/5.png"
+    },
+    {
+      "id":22,
+      "category": 2,
+      "name": "naranja",
+      "price": 6640,
+      "quantity": "500 g",
+      "image": "../img/veg-2/product/6.png"
+    },
+    {
+      "id": 23,
+      "category": 2,
+      "name": "papaya",
+      "price": 7960,
+      "quantity": "2 Kg",
+      "image": "../img/veg-2/product/8.png"
+    },
+    {
+      "id": 24,
+      "category": 2,
+      "name": "fresa",
+      "price": 4990,
+      "quantity": "250 g",
+      "image": "../img/veg-2/product/10.png"
+    },
+    {
+      "id": 25,
+      "category": 2,
+      "name": "manzana",
+      "price": 5690,
+      "quantity": "500 g",
+      "image": "../img/veg-3/cate1/8.png"
+    },
+    {
+      "id": 26,
+      "category": 2,
+      "name": "pera",
+      "price": 7050,
+      "quantity": "500 g",
+      "image": "../img/veg-3/cate1/7.png"
+    },
+    {
+      "id": 27,
+      "category": 2,
+      "name": "aguacate",
+      "price": 4750,
+      "quantity": "500 g",
+      "image": "../img/veg-3/cate1/9.png"
+    },
+    {
+      "id": 28,
+      "category": 2,
+      "name": "maracuya",
+      "price": 13590,
+      "quantity": "2000 g",
+      "image": "../img/veg-3/cate1/14.png"
+    },
+    {
+      "id": 29,
+      "category": 2,
+      "name": "mora",
+      "price": 6990,
+      "quantity": "500 g",
+      "image": "../img/veg-3/cate1/16.png"
+    }   
+  ]
+}
